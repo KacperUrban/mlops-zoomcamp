@@ -8,6 +8,7 @@ you can find all course resources. This course is completely free, so if you int
 In the first week I had to setup enviroment and download required libraries. For example:
 - conda,
 - docker.
+
 I use a virtual machine with Lubuntu. Then I got to know MLOps Maturity Model. We can divide this model into 5 parts:
 - No Automation,
 - DevOps but no MLOps,
