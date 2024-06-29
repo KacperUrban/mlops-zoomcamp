@@ -4,7 +4,7 @@
 1. [General Info](#general-info)
 2. [Introduction](#introduction)
 3. [Experiment tracking](#experiment-tracking)
-4. [Orchestration](#orchestration)
+4. [Training pipelines](#training-pipelines)
 
 ## General Info
 This repository was created for MLOps Zoomcamp. I will upload my solution and briefly describe what i learned in every chapter. On this repository: [MLOps-Github](https://github.com/DataTalksClub/mlops-zoomcamp)
@@ -30,7 +30,7 @@ After this steps I did a simple project with NY tripdata. The solution is in 01-
 In this chapter I got more knowledge about experiment tracking and MLFlow. I had to create a project with NY taxi dataset and did experiment tracking. I also learned about
 data versioning, model registry. All code is in experiment tracking directory.
 
-## Orchestration
+## Training pipelines
 That chapter was really challenging. I had a lot of problems with Mage.ai platform, but after all I run this website and now I am in the process of writing, so in the future I will share my code. 
 The main tasks was:
 * Run Mage
