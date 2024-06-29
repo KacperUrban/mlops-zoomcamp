@@ -39,3 +39,8 @@ The main tasks was:
 * Observability: Monitoring and alerting
 * Triggering: Inference and retraining
 * Deploying: Running operations in production
+
+Data preparation pipeline:
+
+![Zrzut ekranu 2024-06-29 134315](https://github.com/KacperUrban/mlops-zoomcamp/assets/87485442/38a0dc3d-cfa3-4292-b718-0ed25c8aea9d)
+
