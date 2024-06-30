@@ -13,7 +13,7 @@ def prepare_features(ride):
 
 def predict(features):
     X = dv.transform(features)
-    print(f"Transformed features: {X}")  # Debug statement
+    print(f"Transformed features: {X}")
     preds = np.round(model.predict(X), 3)
     return preds[0]
 
