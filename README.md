@@ -28,7 +28,11 @@ After this steps I did a simple project with NY tripdata. The solution is in 01-
 
 ## Experiment tracking
 In this chapter I got more knowledge about experiment tracking and MLFlow. I had to create a project with NY taxi dataset and did experiment tracking. I also learned about
-data versioning, model registry. All code is in experiment tracking directory.
+data versioning, model registry. 
+
+After the completing all above knowledge I did three additional notebooks, which describe a practical use of the MLFlow. I used a diffrent MLFlow setup. In the last scenario I used an AWS to store information and run tracking server.
+
+All code is in experiment tracking directory.
 
 ## Training pipelines
 That chapter was really challenging. I had a lot of problems with Mage.ai platform, but after all I run this website and now I am in the process of writing, so in the future I will share my code. 
