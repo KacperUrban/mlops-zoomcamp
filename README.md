@@ -5,6 +5,7 @@
 2. [Introduction](#introduction)
 3. [Experiment tracking](#experiment-tracking)
 4. [Training pipelines](#training-pipelines)
+5. [Deployment](#deployment)
 
 ## General Info
 This repository was created for MLOps Zoomcamp. I will upload my solution and briefly describe what i learned in every chapter. On this repository: [MLOps-Github](https://github.com/DataTalksClub/mlops-zoomcamp)
@@ -47,4 +48,13 @@ The main tasks was:
 Data preparation pipeline:
 
 ![Zrzut ekranu 2024-06-29 134315](https://github.com/KacperUrban/mlops-zoomcamp/assets/87485442/38a0dc3d-cfa3-4292-b718-0ed25c8aea9d)
+
+## Deployment
+In this chapter of the MLOps course, we delve into the various methods and best practices for deploying machine learning models. We cover four key topics:
+
+Web-Service Deployment: Learn how to deploy your models as web services using frameworks like Flask. This section includes step-by-step instructions for setting up endpoints, handling requests, and ensuring scalability and reliability.
+
+Batch Scoring: Explore the process of batch scoring, where models are used to make predictions on large datasets in bulk. This segment provides insights into setting up batch jobs, managing resources, and optimizing performance.
+
+Streaming with Kinesis: Understand how to deploy models in a streaming environment using Amazon Kinesis. This part covers the fundamentals of stream processing, setting up Kinesis streams, and integrating with machine learning models for real-time predictions.
 
